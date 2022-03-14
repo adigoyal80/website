@@ -22,4 +22,4 @@ This guide primarily focuses on the ThermoJet line of machines from Breville tha
   - [AU(Pesado brand but made by IMS)](https://pesado.com.au/products/pesado-filter-basket-24-5-18g?variant=40122780418219)
 - Puck Screen - [Normcore](https://www.normcorewares.com/collections/bottomless-portafilter/products/normcore-lower-shower-screen-puck-screen-contact-screen-stainless-steel?variant=40382234362052)
 - Dosing Cup - [Normcore](https://www.normcorewares.com/collections/bottomless-portafilter/products/53-3mm-portafilter-dosing-cup-fit-breville-sage-matte-black-non-stick-coating) [Crema Coffee Products](https://cremacoffeeproducts.com/collections/tools-for-breville/products/54mm-dosing-cup)
-- 
+- Dosing Funnel/Ring - any dosing ring/funnel is good as long as it doesn't got into the actual basket and sits on top. [Amazon listings](https://www.amazon.com/s?k=54mm+dosing+funnel&crid=AFGD7BRQZIJM&sprefix=54mm+dosing+fu%2Caps%2C601&ref=nb_sb_noss_2)
